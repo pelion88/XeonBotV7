@@ -19,7 +19,7 @@ global.location = "Pakistan, Punjab, Gujranwala" //ur location
 
 //new
 global.botname = "Cheems Bot MD V7"
-global.ownernumber = '923470027813'
+global.ownernumber = '905346403148'
 global.ownername = '🦄드림 가이 Xeon'
 global.ownerNumber = ["905346403148@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@xIKRATOSx"
